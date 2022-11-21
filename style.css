@@ -1,0 +1,28 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-size: fantasy;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    font-weight: 550;
+}
+.kdb17{
+    background: rgb(71, 236, 5);
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: rgb(255, 10, 10);
+}
+.square{
+width: 80px;
+height: 80px;
+background: rgb(94, 206, 3);
+float: left;
+margin: 2px;
+font-size: 50px;
+}
+.square:hover{
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+}
